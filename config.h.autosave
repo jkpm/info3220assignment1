@@ -1,0 +1,17 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#include <QString>
+#include <QStringList>
+#include <QFile>
+#include <QTextStream>
+
+
+class Config
+{
+public:
+    Config(
+            );
+};
+
+#endif // CONFIG_H
